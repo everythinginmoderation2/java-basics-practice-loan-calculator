@@ -4,8 +4,8 @@ Calculates the monthly car payment a user should expect to make after taking out
 
 The program includes the following:
 
--Car loan amount
--Interest rate of the loan
--Length of the loan (in years)
--Down payment
++Car loan amount
+++Interest rate of the loan
++++Length of the loan (in years)
+++++Down payment
 
